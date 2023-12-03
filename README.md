@@ -1,7 +1,13 @@
 # Gwala client
 
-## Run with docker
+# Start the application in dev mode (recommended)
 
+```bash
+yarn install
+yarn dev --port 3333
+```
+
+## Run with docker
 ```bash
 docker-compose up
 ```
